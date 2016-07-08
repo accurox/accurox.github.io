@@ -1,0 +1,132 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+ 
+}
+
+ul.nav {
+	font-family: 'Arvo',courier,serif;
+}
+
+.jumbotron {
+		text-align: right;
+		margin-top: 0px;
+    border-top-width: 100px;
+    padding-top: 400px;
+    margin-bottom: 50px;
+    background-image: url('../images/Background-consultant.jpg')
+	}
+
+footer {
+	background-color: #000000;
+	text-color: white;
+	
+}
+
+
+.jumbotron h1 {
+	font-family: 'Arvo',courier,serif;
+	font-size: 56px;
+	margin-bottom: 30px;
+}
+
+.jumbotron h1 {
+	margin-top; 820px;
+	margin-bottom; 820px;
+}
+
+.jumbotron p {
+	margin-bottom 20px;
+}
+			
+	.btn-lg {
+	font-size: 36px;
+	}
+
+.Pro {
+	color: red;
+	font-weight:bold;
+	font-size: 12px;
+	
+}
+
+.Homepage {
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.Homepage h2 {
+	color: #e74c3c;
+	font-family: 'Arvo', courier, serif;
+	text-transform: uppercase;
+	
+}
+
+.Homepage h3 {
+	text-transform: uppercase;
+	font-family: 'Arvo', courier, serif;
+	font-size: 26px;
+	background-color: #f5f5f5;
+}
+
+.Homepage p {
+	font-size: 15px;
+	font-weight: 50;
+}
+
+.Homepage a {
+	color: red;
+}
+
+.Homepage hr {
+	border-color: red;
+	width: 160px;
+	margin-top: 15px;
+}
+
+
+/* Responsive styling Medium devices (desktops, 1199px and up) */
+@media (max-width: 1199px) { 
+	
+	}
+
+/* Responsive styling Medium devices (desktops, 991px and up) */
+@media (max-width: 991px) { 
+
+.jumbotron h1 {
+	font-size: 44px;
+}
+
+.jumbotron p {
+	padding: 0 10px;
+	}
+
+#Homepage .col-md-4 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+  }
+}
+	
+* Responsive styling Medium devices (desktops, 767px and up) */
+@media (max-width: 767px) { 
+	
+.jumbotron h1 {
+	font-size: 24px;
+}
+
+.jumbotron p {
+	padding: 0;
+	font-size: 16px;
+	}
+
+footer img {
+width: 80px;
+ }
+
+#Homepage p {
+	font-size: 18px;
+ }
+}
+

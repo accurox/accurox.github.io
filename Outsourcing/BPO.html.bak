@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Full Slider - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/full-slider.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <li><a class="navbar-brand" href="../index.html">accurox</a></li>
+          
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="..\Who We Are\Who.html">Who We Are</a></li>
+            <li><a href="..\Outsourcing\BPO.html">Business Process Outsourcing</a></li>
+            <li><a href="..\Specialist\specialist.html">Specialist</a></li>
+            <li><a href="..\Pricing\Pricing.html">Pricing</a></li>
+            <li><a href="..\About\About.html">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <!-- Full Page Image Background Carousel Header -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+                <img src="images\slide1.jpg" alt="...">
+                <div class="carousel-caption">
+                    <h2>Team Work 1</h2>
+                </div>
+            </div>
+            <div class="item">
+                <!-- Set the second background image using inline CSS below. -->
+                <img src="images\slide2.jpg" alt="...">
+                <div class="carousel-caption">
+                    <h2>Caption 2</h2>
+                </div>
+            </div>
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <img src="images\slide3.jpg" alt="...">
+                <div class="carousel-caption">
+                    <h2>Caption 3</h2>
+            </div>                         
+            </div>
+            <div class="item">
+                <!-- Set the third background image using inline CSS below. -->
+                <img src="images\consultant.jpg" alt="...">
+                <div class="carousel-caption">
+                    <h2>Caption 4</h2>
+            </div>
+            
+            </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Outsourcing</h1> <p>(collaborative/Seamless/Transparent</p>
+<p><h3>Collaborative</h3></p>
+
+<p>Technological developments have helped accountancy firms to share information
+with geographically dispersed teams.<br>
+
+Accountancy profession has changed overtime; focus has shifted away from
+traditional compliance based work. Todays environment requires accounting firms
+to be more dynamic. Business owners need accountants who can articulate
+information for supporting business decisions and provide value added
+contributions.<br>
+
+At Present accountancy firms are moving away from traditional communication and
+working conditions into more social working environment where teams can
+interact, react and response to the every changing needs of the clients.<br>
+
+
+Through collaboration we want to maintain a trusting and credible partnerships
+making it possible for you to achieve long-term success and growth.
+
+
+<hr>
+
+<p><h3>Seamless</h3></p>
+<br>
+For businesses to remain competitive they must transform themselves with the
+changing needs of the industry. To succeed, organizations need to meet the key
+business objectives - increase revenue growth, enable customer & business
+partner relationships, optimization of business processes. Today those
+accountancy firms that master the seamless integration of diverse resources will
+achieve a higher level of performance operate on their full capacity and will be
+equipped to exploit new business possibilities.
+.<br>
+
+<hr>
+
+<p><h3>Transparent</h3></p>
+
+<p>Transparency helps in clear two-way communication, helps in aligning goals and
+targets. Combined with collaborative and Seamless approach it increases
+productivity. Transparency helps in creating trust, sharing ideas and achieving
+long term partnership.<br></p>
+
+We believe through transparent approach we create a partnership that can help
+you transform your practice into a highly productive business unit.
+
+
+
+Ready to discuss your needs? Contact our team today:  <br> Accountants Newbury
++44(0) 0000 000 000 <br> Accountants Reading +44(0)0000 000 000 <br>
+Accountants London +44(0)0000 000 000 </p>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; accurox.co.uk 2016</p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>
